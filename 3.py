@@ -8,7 +8,7 @@ kilometro_conductor1 = 18
 kilometro_conductor2 = 82
 velocidad = 45
 
-kilometro_de_encuentro = (kilometro_conductor1 + kilometro_conductor2)/velocidad
+kilometro_de_encuentro = (kilometro_conductor1 + kilometro_conductor2)/2
 
 print(f"Los conductores se encontraran en el kilometro {kilometro_de_encuentro}")
 
